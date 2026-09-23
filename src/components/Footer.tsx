@@ -10,7 +10,7 @@ export default function Footer() {
               <img
                 src={image}
                 alt="Dev Stack"
-                className="h-8 w-auto object-contain"
+                className="h-9 w-auto object-contain"
               />
             </div>
 
