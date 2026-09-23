@@ -1,16 +1,16 @@
-DevStack
+## **DevStack React Project**
 
 DevStack is a modern and responsive technology stack builder built with React, TypeScript, and Tailwind CSS. It allows developers to explore different technologies, view their details, and select technologies to build their ideal development stack.
 
 The project focuses on creating a clean, user-friendly interface inspired by a Figma design while following modern React development practices.
 
-Features:
+**Features:**
 
 1.Dynamic "Your Stack" section.
 2.Toast notification when add/remove technologies.
 3.Sticky navigation bar.
 
-Technologies Used:
+**Technologies Used:**
 
 Vite
 React
@@ -21,7 +21,7 @@ React Hooks (useState, useEffect)
 Git & GitHub
 Netlify
 
-React Questions & Answers:
+**React Questions & Answers:**
 
 1. What is JSX, and why is it used in React?
 
