@@ -27,7 +27,7 @@ const Header = () => {
               </a>
               <a
                 href="#about"
-                className="text-[14px] font-medium text-[#6B7280] transition hover:text-[#EC4899]"
+                className="text-[15px] font-medium text-[#6B7280] transition hover:text-[#EC4899]"
               >
                 Learn More
               </a>
