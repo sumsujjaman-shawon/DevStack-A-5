@@ -37,7 +37,7 @@ const Header = () => {
             <img
               src={banner}
               alt="Development Stack"
-              className="w-full max-w-[520px] object-contain"
+              className="w-full max-w-[522px] object-contain"
             />
           </div>
         </div>
