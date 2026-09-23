@@ -1,8 +1,4 @@
 import Navbar from "./components/Navber";
-import logo from "./assets/logo-text.png";
-import banner from "./assets/banner-stack.png"
-import image from "./assets/logo-text.png"
-
 import Header from "./components/Header";
 import Technologies from "./components/Technologies/Technologies";
 import { Suspense } from "react";

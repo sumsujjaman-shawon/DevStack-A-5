@@ -4,6 +4,9 @@ DevStack is a modern and responsive technology stack builder built with React, T
 
 The project focuses on creating a clean, user-friendly interface inspired by a Figma design while following modern React development practices.
 
+## **View Live Site on this project**
+https://dev-stack-005.netlify.app/
+
 **Features:**
 
 1.Dynamic "Your Stack" section.
