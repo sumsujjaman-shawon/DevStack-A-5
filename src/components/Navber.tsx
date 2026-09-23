@@ -12,7 +12,7 @@ const Navbar = () => {
           <img
             src={logo}
             alt="Dev Stack"
-            className="h-30 w-30 object-contain"
+            className="h-33 w-33 object-contain"
           />
         </a>
 
